@@ -41,7 +41,7 @@ npm run build
 .
 ├── public/
 │   ├── stylized_mangrove_greenhouse/  # 3D model assets
-│   └── Dibyaranjan_Swain_New.pdf      # CV PDF
+│   └── Dibyaranjan_Swain.pdf      # CV PDF
 ├── src/
 │   ├── components/
 │   │   ├── App.jsx                    # Main app component

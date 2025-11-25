@@ -89,12 +89,13 @@ export default function Interface({ is3DMode, setIs3DMode }) {
                         {cvData.experience.length > 0 && <NavLink href="#experience">Experience</NavLink>}
                         <NavLink href="#projects">Projects</NavLink>
                         <NavLink href="#skills">Skills</NavLink>
+                        <NavLink href="#contact">Contact</NavLink>
                     </div>
 
                     {/* CV Button */}
                     <div className="border-l border-white/20 pl-8">
                         <a
-                            href="./Dibyaranjan_Swain_New.pdf"
+                            href="./Dibyaranjan_Swain.pdf"
                             download
                             className="px-5 py-2 bg-white text-black rounded-full text-sm font-bold hover:bg-opacity-90 transition-all hover:scale-105 whitespace-nowrap"
                         >
@@ -133,7 +134,7 @@ export default function Interface({ is3DMode, setIs3DMode }) {
                             <NavLink href="#skills" onClick={() => setMobileMenuOpen(false)}>Skills</NavLink>
                             <NavLink href="#contact" onClick={() => setMobileMenuOpen(false)}>Contact</NavLink>
                             <a
-                                href="./Dibyaranjan_Swain_New.pdf"
+                                href="./Dibyaranjan_Swain.pdf"
                                 download
                                 className="px-5 py-2 bg-white text-black rounded-full text-sm font-bold hover:bg-opacity-90 transition-all text-center"
                             >
