@@ -1,0 +1,74 @@
+{
+    "personal": {
+        "name": "Dibyaranjan",
+        "role": "Project Engineer & Embedded Developer",
+        "summary": "I’m Dibyaranjan Swain, an Electronics Engineer specializing in embedded firmware and IoT product development. I work across the full development cycle, from prototyping with Arduino and ESP32 to PCB design, assembly, testing, and troubleshooting. I also integrate electronics with mechanical components using CAD tools like Fusion 360 and SolidWorks. I enjoy transforming ideas into reliable, interactive electronic products that solve real-world problems.",
+        "email": "dibyacttc@gmail.com",
+        "mobile": "7894949162"
+    },
+    "experience": [
+        {
+            "role": "Sr. Project Engineer",
+            "company": "Wizklub Learning Pvt. Ltd.",
+            "period": "March 2022 - Present",
+            "description": "Developing interactive STEM learning products using Arduino and ESP32. Working across embedded firmware, circuit integration, PCB design, assembly, testing, and quality checks. Collaborating with mechanical and curriculum teams to build complete, classroom-ready educational kits."
+        },
+        {
+            "role": "Operating Engineering Trainee",
+            "company": "Dana Anand India Pvt. Ltd.",
+            "period": "August 2020 - August 2021",
+            "description": "Ensured safety and quality standards were maintained during drivetrain component production. Contributed to Kaizen and 5S improvement initiatives. Supported production documentation and customer audits, while assisting with productivity tracking and quality performance metrics.  "
+        }
+    ],
+    "projects": [
+        {
+            "title": "Automated Watering System",
+            "description": "A smart irrigation setup that uses soil moisture levels to control water flow automatically, with visual OLED indicators and audio alerts for system status.",
+            "link": "https://github.com/dibyasn/Arduino_Projects/tree/main/Automated_Watering_System"
+        },
+        {
+            "title": "Magic Switchboard",
+            "description": "An engaging switch-to-LED logic puzzle where switch inputs dynamically map to LED outputs, designed for learning basic electronics and debugging skills.",
+            "link": "https://github.com/dibyasn/Arduino_Projects/tree/main/Magic_Switchboard"
+        },
+        {
+            "title": "Child Safety System",
+            "description": "A safety alert system combining ultrasonic detection with timed notifications and SOS functionality, created to improve washroom safety for children.",
+            "link": "https://github.com/dibyasn/Arduino_Projects/tree/main/Child_Safety_System/Using_Telegram"
+        },
+        {
+            "title": "7x5 NeoPixel Custom Display",
+            "description": "A Wi-Fi–enabled 7x5 LED matrix controlled through a web interface, supporting characters, animations, and freehand drawing using an ESP32.",
+            "link": "https://github.com/dibyasn/Arduino_Projects/tree/main/7x5_NeoPixel_CustomDisplay"
+        }
+    ],
+    "skills": [
+        "Embedded C/C++",
+        "Python",
+        "Arduino",
+        "ESP32",
+        "IoT Systems",
+        "Circuit Design",
+        "PCB Assembly & Testing",
+        "Fusion 360",
+        "SolidWorks",
+        "AutoCAD",
+        "Git & GitHub"
+    ],
+    "education": [
+        {
+            "degree": "B.Tech in Electronics & Communication Engineering",
+            "school": "REC",
+            "year": ""
+        },
+        {
+            "degree": "Diploma in Mechatronics",
+            "school": "CTTC",
+            "year": ""
+        }
+    ],
+    "contact": {
+        "email": "dibyacttc@gmail.com",
+        "linkedin": "www.linkedin.com/in/dibyasn"
+    }
+}
